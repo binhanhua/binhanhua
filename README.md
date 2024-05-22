@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binhanhua
-- 👀 I’m interested in anime, games, and golf
-- 🌱 I’m currently learning physics and data science
-- 📫 How to reach me: binhan_hua@berkeley.edu
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning how to cope.
+- 📫 How to reach me: binhan_hua@g.harvard.edu
 
 <!---
 binhanhua/binhanhua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
